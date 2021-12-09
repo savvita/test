@@ -9,5 +9,5 @@ int main()
 
 void Hello()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello, World!\n";
 }
