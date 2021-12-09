@@ -3,5 +3,6 @@ class test
 {
 private:
 	int i;
+	int j;
 };
 
